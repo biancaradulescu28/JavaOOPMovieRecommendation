@@ -26,9 +26,9 @@ Actiuni:
     Dupa primirea recomandarilor poti alege un titlu si actiunea pe care vrei sa o faci cu el:  
     - See title reviews.  
     - Watch now.  
-    Daca alegi sa te uiti la titlul ales ai urmatoarele optiuni:  
-    - Add title to Favorites  
-    - Add review to title.  
+      Daca alegi sa te uiti la titlul ales ai urmatoarele optiuni:  
+      - Add title to Favorites  
+      - Add review to title.  
     - Watch later.  
     - Go back to menu.  
   - See watch history.  
