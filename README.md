@@ -1,6 +1,6 @@
 # Aplicatie de recomandare de filme   
 
-Etapa I   
+## Etapa I   
 
 Definirea sistemului    
 
