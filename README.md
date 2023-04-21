@@ -1,6 +1,4 @@
-# PAO
-
-Aplicatie de recomandare de filme   
+#Aplicatie de recomandare de filme   
 
 Etapa I   
 
