@@ -2,9 +2,7 @@
 
 ## Etapa I   
 
-Definirea sistemului    
-
-Obiecte:    
+### Obiecte:    
 - User   
 - Preference   
 - Item   
@@ -16,7 +14,7 @@ Obiecte:
 - Director   
 - Review   
 
-Actiuni:   
+### Actiuni:   
 - Create account  
 - Sign in -> daca sign in se desfasoara cu succes se deschide meniul aplicatiei:  
   - See Profile.  
