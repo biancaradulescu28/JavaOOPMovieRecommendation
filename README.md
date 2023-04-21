@@ -1,22 +1,22 @@
 # PAO
 
-Aplicatie de recomandare de filme
+Aplicatie de recomandare de filme  
 
-Etapa I
+Etapa I  
 
-Definirea sistemului 
+Definirea sistemului   
 
-Obiecte:
-• User
-• Preference
-• Item
-• Movie
-• Collection
-• Series
-• Cast Member
-• Actor
-• Director
-• Review
+Obiecte:  
+• User  
+• Preference  
+• Item  
+• Movie  
+• Collection  
+• Series  
+• Cast Member  
+• Actor  
+• Director  
+• Review  
 
 Actiuni:
 • Create account
