@@ -1,0 +1,679 @@
+Directors[
+
+
+]
+
+Movies:
+
+1.
+Spider-Man: Homecoming
+[
+Action
+Superhero
+Adventure
+Fantasy
+Comedy
+]
+
+English
+
+[
+Tom Holland
+Michael Keaton
+Jon Favreau
+Gwyneth Paltrow
+Zendaya
+Donald Glover
+Jacob Batalon
+Laura Harrier
+Robert Downey Jr.
+done
+]
+
+Jon Watts
+2017
+[]
+
+
+2.
+Spider-Man: Far From Home
+[
+"Action", "Superhero", "Adventure", "Fantasy", "Comedy"
+]
+English
+
+[
+Tom Holland
+Samuel L. Jackson
+Zendaya
+Cobie Smulders
+Jon Favreau
+J.B. Smoove
+Jacob Batalon
+Martin Starr
+Tony Revolori
+Marisa Tomei
+Jake Gyllenhaal
+done
+]
+
+Jon Watts
+2019
+[]
+
+
+3.
+Spider-Man: No Way Home
+[
+"Action", "Superhero", "Adventure", "Fantasy", "Comedy"
+]
+English
+
+[
+Tom Holland
+Zendaya
+Benedict Cumberbatch
+Jacob Batalon
+Jon Favreau
+Jamie Foxx
+Willem Dafoe
+Alfred Molina
+Benedict Wong
+Tony Revolori
+Marisa Tomei
+Andrew Garfield
+Tobey Maguire
+done
+]
+
+Jon Watts
+2021
+[]
+
+
+4.
+The Devil Wears Prada
+[
+"Comedy", "Drama"
+]
+English
+
+[
+Meryl Streep
+Anne Hathaway
+Emily Blunt
+Stanley Tucci
+Simon Baker
+Adrian Grenier
+done
+]
+
+Wendy Finerman
+2006
+[]
+
+5.
+Titanic
+[
+"Romance", "Drama"
+]
+English
+
+[
+Leonardo DiCaprio
+Kate Winslet
+Billy Zane
+Kathy Bates
+Frances Fisher
+Bernard Hill
+Jonathan Hyde
+Danny Nucci
+David Warner
+Bill Paxton
+done
+]
+
+James Cameron
+1997
+[]
+
+
+6.
+Lucy
+[
+"Action", "Thriller", "Sci-Fi"
+]
+English
+
+[
+Scarlett Johansson
+Morgan Freeman
+Choi Min-sik
+Amr Waked
+done
+]
+
+Luc Besson
+
+2016
+[]
+
+
+7.
+The 5th Wave
+[
+Action
+Sci-Fi
+]
+English
+
+[
+Chloë Grace Moretz
+Nick Robinson
+Ron Livingston
+Maggie Siff
+Alex Roe
+Maria Bello
+Maika Monroe
+Liev Schreiber
+done
+]
+
+Jonathan Blakeson
+2016
+[]
+
+
+8.
+Burlesque
+[
+Musical
+Romance
+Drama
+]
+English
+
+[
+Cher
+Christina Aguilera
+Eric Dane
+Cam Gigandet
+Julianne Hough
+Alan Cumming
+done
+]
+
+Steven Antin
+2010
+[]
+
+
+9.
+Jessabelle
+[
+Horror
+Thriller
+Mystery
+]
+English
+
+[
+Sarah Snook
+Mark Webber
+David Andrews
+Joelle Carter
+Ana de la Reguera
+done
+]
+
+Kevin Greutert
+2014
+[]
+
+10.
+A Perfect Day
+[
+Drama
+Comedy
+]
+Spanish
+
+[
+Benicio Del Toro
+Tim Robbins
+Olga Kurylenko
+Mélanie Thierry
+done
+]
+
+Fernando León de Aranoa
+2015
+[]
+
+
+11.
+Divergent
+[
+Action
+Sci-Fi
+Adventure
+Thriller
+Mystery
+]
+English
+
+[
+Shailene Woodley
+Theo James
+Ashley Judd
+Jai Courtney
+Ray Stevenson
+Zoë Kravitz
+Miles Teller
+done
+]
+
+Neil Burger
+2014
+[]
+
+12.
+Insurgent
+[
+Action
+Sci-Fi
+Adventure
+Thriller
+Mystery
+]
+English
+
+[
+Shailene Woodley
+Theo James
+Octavia Spencer
+Jai Courtney
+Ray Stevenson
+Zoë Kravitz
+Miles Teller
+Ansel Elgort
+done
+]
+
+Robert Schwentke
+2015
+[]
+
+13.
+Allegiant
+[
+Action
+Sci-Fi
+Adventure
+Thriller
+Mystery
+]
+English
+
+[
+Shailene Woodley
+Theo James
+Jeff Daniels
+Miles Teller
+Ansel Elgort
+Zoë Kravitz
+Maggie Q
+done]
+
+Robert Schwentke
+2016
+[]
+
+14.
+Murder Mystery
+[
+Comedy
+Mystery
+Action
+Detective
+]
+English
+[
+Adam Sandler
+Jennifer Aniston
+Luke Evans
+Terence Stamp
+Gemma Arterton
+David Walliams
+done
+]
+
+Kyle Newacheck
+2019
+[]
+
+15.
+Murder Mystery 2
+[
+Comedy
+Mystery
+Action
+Detective
+]
+English
+[
+Adam Sandler
+Jennifer Aniston
+Mark Strong
+Mélanie Laurent
+Jodie Turner-Smith
+John Kani
+done
+]
+
+Jeremy Garelick
+2023
+[]
+
+
+16.
+Avatar
+[
+Action
+Sci-Fi
+Adventure
+Fantasy
+Mystery
+]
+English
+
+[
+Sam Worthington
+Zoe Saldana
+Stephen Lang
+Michelle Rodriguez
+Sigourney Weaver
+done
+]
+
+James Cameron
+2009
+[]
+
+
+17.
+Avatar: The Way of Water
+[
+Action
+Sci-Fi
+Adventure
+Fantasy
+Mystery
+]
+English
+[
+Sam Worthington
+Zoe Saldaña
+Sigourney Weaver
+Stephen Lang
+Kate Winslet
+done
+]
+
+James Cameron
+2022
+[]
+
+
+
+
+OBS daca input gresit la ce vrei sa creezi
+TODO: SeeProfile; EditProfile
+TODO: Lists of available genres
+TODO: Add users to list
+
+
+1.
+La casa de papel
+[
+Thriller
+Heist
+Detective
+]
+
+Spanish
+2017
+2021
+5
+
+Úrsula Corberó
+Álvaro Morte
+Itziar Ituño
+Pedro Alonso
+Paco Tous
+Alba Flores
+Miguel Herrán
+Jaime Lorente
+Esther Acebo
+Enrique Arce
+María Pedraza
+Darko Perić
+Kiti Mánver
+done
+
+Álex Pina
+
+
+2.
+Game of Thrones
+[
+Action
+Adventure
+Fantasy
+Drama
+Tragedy
+]
+English
+2011
+2019
+8
+
+Sean Bean
+Nikolaj Coster-Waldau
+Michelle Fairley
+Lena Headey
+Emilia Clarke
+Iain Glen
+Kit Harington
+Richard Madden
+Sophie Turner
+Maisie Williams
+Peter Dinklage
+done
+
+David Benioff
+
+
+3.
+The Vampire Diaries
+[
+Drama
+Supernatural
+Horror
+Fantasy
+]
+English
+2009
+2017
+8
+
+Nina Dobrev
+Paul Wesley
+Ian Somerhalder
+Steven R. McQueen
+Sara Canning
+Kat Graham
+Candice King
+Zach Roerig
+Kayla Ewell
+Michael Trevino
+Matt Davis
+Joseph Morgan
+Michael Malarkey
+done
+
+Kevin Williamson
+
+
+4.
+The Office
+[
+Mockumentary
+Comedy
+Sitcom
+]
+English
+2005
+2013
+9
+
+Steve Carell
+Rainn Wilson
+John Krasinski
+Jenna Fischer
+B. J. Novak
+Melora Hardin
+David Denman
+Leslie David Baker
+Brian Baumgartner
+Kate Flannery
+Angela Kinsey
+Oscar Nunez
+Phyllis Smith
+Ed Helms
+done
+
+Greg Daniels
+
+
+5.
+American Horror Story
+[
+Horror
+Anthology
+Thriller
+]
+English
+2011
+0
+11
+
+Connie Britton
+Dylan McDermott
+Evan Peters
+Taissa Farmiga
+Denis O'Hare
+Jessica Lange
+Zachary Quinto
+Joseph Fiennes
+Sarah Paulson
+Lily Rabe
+Lizzie Brocheré
+James Cromwell
+Frances Conroy
+Emma Roberts
+done
+
+Ryan Murphy
+
+
+6.
+Wednesday
+[
+Comedy
+Horror
+Supernatural
+]
+English
+2022
+0
+1
+
+
+Jenna Ortega
+Gwendoline Christie
+Riki Lindhome
+Jamie McShane
+Hunter Doohan
+Percy Hynes White
+Emma Myers
+Joy Sunday
+Georgie Farmer
+Naomi J. Ogawa
+Moosa Mostafa
+Christina Ricci
+done
+
+Tim Burton
+
+7.
+Elite
+[
+Thriller
+Drama
+]
+Spanish
+2018
+0
+6
+
+Itzan Escamilla
+Miguel Bernardeau
+Álvaro Rico
+Arón Piper
+Mina El Hammani
+Ester Expósito
+Omar Ayuso
+Danna Paola
+Jorge López
+Claudia Salas
+Georgina Amorós
+Carla Díaz
+Martina Cariddi
+Pol Granch
+Manu Ríos
+done
+
+
+Carlos Montero
+
+8.
+Teen Wolf
+[
+Action
+Romance
+Supernatural
+Thriller
+Teen drama
+]
+English
+2011
+2017
+6
+
+
+Tyler Posey
+Crystal Reed
+Dylan O'Brien
+Tyler Hoechlin
+Holland Roden
+Colton Haynes
+Shelley Hennig
+Arden Cho
+Dylan Sprayberry
+Linden Ashby
+Melissa Ponzio
+JR Bourne
+done
+
+Jeff Davis
