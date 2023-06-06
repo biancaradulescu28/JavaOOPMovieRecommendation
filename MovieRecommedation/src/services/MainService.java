@@ -504,7 +504,6 @@ public class MainService {
         System.out.println("What title do you want to see?");
         sc.nextLine();
         String title = sc.nextLine();
-        sc.nextLine();
 
         int ok=0;
         for(Title item: titles){
