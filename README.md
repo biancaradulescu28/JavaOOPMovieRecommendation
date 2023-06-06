@@ -1,13 +1,11 @@
 # Aplicatie de recomandare de filme PAO   
 
-## Etapa I   
-
 ### Obiecte:    
 - User   
 - Preference   
 - Item   
 - Movie   
-- Collection   
+- TitleCollection   
 - Series   
 - Cast Member   
 - Actor    
@@ -15,28 +13,29 @@
 - Review   
 
 ### Actiuni:   
-- Create account  
-- Sign in -> daca sign in se desfasoara cu succes se deschide meniul aplicatiei:  
+- Create account sau Sign In
   - See Profile.  
-  - Insert preference and get movie/collection/series recommendations based on your preference.  
-    Dupa primirea recomandarilor poti alege un titlu si actiunea pe care vrei sa o faci cu el:  
+  - Insert preference and get movie/collection/series recommendations based on your preference. 
+    After getting the recommendations you can choose a title and an action for it:
     - See title reviews.  
     - Watch now.  
-      Daca alegi sa te uiti la titlul ales ai urmatoarele optiuni:  
+      If you choose to watch the title you have the following options: 
       - Add title to Favorites  
-      - Add review to title.  
-    - Watch later.  
+      - Add review to title.   
     - Go back to menu.  
-  - See watch history.  
-  - See WatchLater list.  
-    - Watch a title from WatchLater list.  
+  - See watch history.   
   - See Favorites list.  
-    - Remove title from Favorites.  
-  - See all titles available.  
+    - Remove title from Favorites. 
   - See all movies available.  
   - See all collections available.  
   - See all series available.  
-  - Add review to title.  
-  - Show title details.  
-  - Edit data.  
+  - Show title details. 
+  - Add review to title.   
+  - Edit data.
+    After selecting to edit the information you will get the following options:
+    - Add cast member(actor/director).
+    - Add title(movie/titlecollection/series).
+    - Remove title.
+    - Add title in collection.
+    - Go back to menu.  
   - Exit application.  
