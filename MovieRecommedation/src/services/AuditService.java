@@ -35,7 +35,7 @@ public class AuditService
     public void logAction(String action) throws IOException
     {
         writer.append(action);
-        writer.append(" - ");
+        writer.append(",");
         writer.append(formatter.format(LocalDateTime.now()));
         writer.append("\n");
         writer.flush();
